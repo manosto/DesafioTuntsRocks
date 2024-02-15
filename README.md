@@ -19,5 +19,5 @@ Antes de executar o código, siga estas etapas de configuração:
 Para executar o código, siga estas etapas:
 1. Execute o script Python `main.py`.
 2. O script irá autenticar-se com a API do Google Sheets usando as credenciais fornecidas.
-3. Os dados dos alunos serão processados e as situações acadêmicas serão atualizadas na planilha especificada.
+3. Os dados dos alunos serão processados e as situações acadêmicas serão atualizadas na <a link="https://docs.google.com/spreadsheets/d/1ZgbB8apEHlN-Vl1hSvJxJKDA4mW7KrDvGirlk96xiqk/edit?pli=1#gid=0">planilha</a> especificada.
 
