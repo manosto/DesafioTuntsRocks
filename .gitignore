@@ -1,0 +1,8 @@
+# Arquivos e diretórios do ambiente virtual
+venv/
+__pycache__/
+
+# Arquivos compilados
+*.pyc
+*.pyo
+*.pyd
