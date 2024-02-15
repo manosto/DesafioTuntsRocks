@@ -11,8 +11,8 @@ Para executar o código fornecido, é necessário atender aos seguintes pré-req
 
 ## Configuração
 Antes de executar o código, siga estas etapas de configuração:
-
-1. Instale as dependências do Python executando `pip install -r requirements.txt`.
+1. Clone o repositorio usando `git clone https://github.com/manosto/DesafioTuntsRocks.git` ou baixe o zip e extraia
+2. Instale as dependências do Python executando `pip install -r requirements.txt`.
 
 
 ## Execução
