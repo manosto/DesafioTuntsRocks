@@ -6,7 +6,6 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-# Google Sheets API credentials and settings
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 SAMPLE_SPREADSHEET_ID = '1ZgbB8apEHlN-Vl1hSvJxJKDA4mW7KrDvGirlk96xiqk'
 SAMPLE_RANGE_NAME = 'engenharia_de_software!A1:H27'
